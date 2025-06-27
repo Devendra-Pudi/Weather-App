@@ -4,6 +4,10 @@ A beautiful, real-time weather application that provides current weather conditi
 
 ![Weather App Preview](https://user-images.githubusercontent.com/placeholder/app-preview.jpg)
 
+## 🌐 Try It Live
+
+**[Try the live web application](https://weather-app-by-devendra.netlify.app/)**
+
 ## ✨ Features
 
 - **Real-time Weather Data**: Current conditions with temperature, feels-like, humidity, and wind speed
