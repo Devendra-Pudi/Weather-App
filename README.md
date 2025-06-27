@@ -2,7 +2,7 @@
 
 A beautiful, real-time weather application that provides current weather conditions, forecasts, and weather alerts for any location worldwide. Built with React and Weather API.
 
-![Weather App Preview](https://user-images.githubusercontent.com/placeholder/app-preview.jpg)
+![Weather App Preview](screenshot.jpg)
 
 ## 🌐 Try It Live
 
