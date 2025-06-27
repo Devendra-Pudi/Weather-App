@@ -1,0 +1,46 @@
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="250" fill="#ffffff" opacity="0.9" />
+  <rect width="780" height="230" x="10" y="10" rx="12" fill="#f8f9fa" stroke="#e0e0e0" stroke-width="1" />
+  
+  <text x="40" y="45" font-family="Arial" font-size="20" fill="#2193b0" font-weight="bold">5-Day Forecast</text>
+  
+  <!-- Day 1 -->
+  <rect width="140" height="160" x="40" y="60" rx="8" fill="rgba(255, 255, 255, 0.5)" stroke="#e0e0e0" stroke-width="1" />
+  <text x="110" y="90" font-family="Arial" font-size="16" text-anchor="middle" fill="#212529" font-weight="bold">Mon</text>
+  <text x="110" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529">☀️</text>
+  <text x="90" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529" font-weight="bold">25°C</text>
+  <text x="130" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#666">18°C</text>
+  <text x="110" y="200" font-family="Arial" font-size="12" text-anchor="middle" fill="#212529">Sunny</text>
+  
+  <!-- Day 2 -->
+  <rect width="140" height="160" x="190" y="60" rx="8" fill="rgba(255, 255, 255, 0.5)" stroke="#e0e0e0" stroke-width="1" />
+  <text x="260" y="90" font-family="Arial" font-size="16" text-anchor="middle" fill="#212529" font-weight="bold">Tue</text>
+  <text x="260" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529">🌤️</text>
+  <text x="240" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529" font-weight="bold">24°C</text>
+  <text x="280" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#666">17°C</text>
+  <text x="260" y="200" font-family="Arial" font-size="12" text-anchor="middle" fill="#212529">Partly Cloudy</text>
+  
+  <!-- Day 3 -->
+  <rect width="140" height="160" x="340" y="60" rx="8" fill="rgba(255, 255, 255, 0.5)" stroke="#e0e0e0" stroke-width="1" />
+  <text x="410" y="90" font-family="Arial" font-size="16" text-anchor="middle" fill="#212529" font-weight="bold">Wed</text>
+  <text x="410" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529">🌧️</text>
+  <text x="390" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529" font-weight="bold">20°C</text>
+  <text x="430" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#666">15°C</text>
+  <text x="410" y="200" font-family="Arial" font-size="12" text-anchor="middle" fill="#212529">Rain</text>
+  
+  <!-- Day 4 -->
+  <rect width="140" height="160" x="490" y="60" rx="8" fill="rgba(255, 255, 255, 0.5)" stroke="#e0e0e0" stroke-width="1" />
+  <text x="560" y="90" font-family="Arial" font-size="16" text-anchor="middle" fill="#212529" font-weight="bold">Thu</text>
+  <text x="560" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529">🌧️</text>
+  <text x="540" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529" font-weight="bold">19°C</text>
+  <text x="580" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#666">14°C</text>
+  <text x="560" y="200" font-family="Arial" font-size="12" text-anchor="middle" fill="#212529">Showers</text>
+  
+  <!-- Day 5 -->
+  <rect width="140" height="160" x="640" y="60" rx="8" fill="rgba(255, 255, 255, 0.5)" stroke="#e0e0e0" stroke-width="1" />
+  <text x="710" y="90" font-family="Arial" font-size="16" text-anchor="middle" fill="#212529" font-weight="bold">Fri</text>
+  <text x="710" y="150" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529">⛅</text>
+  <text x="690" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#212529" font-weight="bold">22°C</text>
+  <text x="730" y="180" font-family="Arial" font-size="14" text-anchor="middle" fill="#666">16°C</text>
+  <text x="710" y="200" font-family="Arial" font-size="12" text-anchor="middle" fill="#212529">Cloudy</text>
+</svg> 

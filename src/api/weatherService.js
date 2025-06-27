@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Your Weather API key
 const API_KEY = '6cb45f158987407da3f65229252706';
-const BASE_URL = 'http://api.weatherapi.com/v1';
+const BASE_URL = 'https://api.weatherapi.com/v1';
 
 // Current weather data API
 export const getWeatherData = async (params) => {
