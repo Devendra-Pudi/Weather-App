@@ -1,0 +1,102 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #6dd5ed, #2193b0);
+  color: #333;
+  min-height: 100vh;
+  transition: background 1s ease;
+}
+
+/* Dynamic backgrounds based on weather conditions */
+body.clear {
+  background: linear-gradient(to right, #56ccf2, #2f80ed);
+}
+
+body.clouds {
+  background: linear-gradient(to right, #E0EAFC, #CFDEF3);
+}
+
+body.rain {
+  background: linear-gradient(to right, #3a7bd5, #00d2ff);
+}
+
+body.snow {
+  background: linear-gradient(to right, #E2E2E2, #C9D6FF);
+}
+
+body.night {
+  background: linear-gradient(to right, #141e30, #243b55);
+  color: #f8f9fa;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --primary-color: #2193b0;
+  --secondary-color: #6dd5ed;
+  --text-color: #333;
+  --light-text: #f8f9fa;
+  --dark-text: #212529;
+  --alert-color: #ff7b25;
+  --card-bg: rgba(255, 255, 255, 0.9);
+  --card-hover-bg: rgba(255, 255, 255, 0.95);
+  --shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 8px 15px rgba(0, 0, 0, 0.2);
+  --border-radius: 12px;
+  --transition-speed: 0.3s;
+}
+
+/* Animation Keyframes */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+} 
