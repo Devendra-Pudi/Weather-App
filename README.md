@@ -2,7 +2,7 @@
 
 A beautiful, real-time weather application that provides current weather conditions, forecasts, and weather alerts for any location worldwide. Built with React and Weather API.
 
-![Weather App Preview](screenshots/app-preview.png)
+![Weather App Preview](screenshots/main-weather.png)
 
 ## ✨ Features
 
@@ -29,8 +29,8 @@ A beautiful, real-time weather application that provides current weather conditi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
-   cd weather-app
+   git clone https://github.com/Devendra-Pudi/Weather-App.git
+   cd Weather-App
    ```
 
 2. **Install dependencies**
@@ -62,22 +62,11 @@ A beautiful, real-time weather application that provides current weather conditi
 
 ## 📸 Screenshots
 
-<details>
-<summary>Click to expand screenshots</summary>
-
 ### Main Weather Display
-![Main Weather](screenshots/main-weather.png)
+![Main Weather Display](screenshots/main-weather.png)
 
-### Forecast Section
-![Forecast](screenshots/forecast.png)
-
-### Weather Alerts
-![Weather Alerts](screenshots/weather-alerts.png)
-
-### Mobile View
-![Mobile View](screenshots/mobile-view.png)
-
-</details>
+### Current Weather with Details
+![Current Weather with Details](screenshots/forecast.png)
 
 ## 🔮 Future Enhancements
 
@@ -103,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [GitHub Profile](https://github.com/yourusername)
+Devendra Pudi - [GitHub Profile](https://github.com/Devendra-Pudi)
 
 ---
 
